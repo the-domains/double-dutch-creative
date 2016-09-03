@@ -1,19 +1,4 @@
-name: DOUBLE DUTCH CREATIVE
-favicon: null
-layout_spectrum: 0.5651141605339944
 typography_spectrum: 0.06694955984130502
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,23 @@ color:
   lightness: 0.6214876873418689
   saturation: 0.22276016674004495
   rhythmicContrast: 0.31387296435423195
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5651141605339944
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DOUBLE DUTCH CREATIVE
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: about
+    url: 'http://www.hellodoubledutch.com/about'
+    type: external
+favicon: null
 purpose: []
